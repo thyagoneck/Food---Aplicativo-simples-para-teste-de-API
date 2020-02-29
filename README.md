@@ -1,6 +1,9 @@
 # FOOD
 
-[TOC]
+- [Descrição](#descrição)
+- [Frameworks utilizados](#frameworks-utilizados)
+- [Alguns detalhes](#alguns-detalhes)
+- [Sobre a API](#sobre-a-api)
 
 #### Descrição
 
@@ -13,7 +16,9 @@ O app mostra uma lista de restaurantes do Rio de Janeiro baseado no termo especi
 - Axios
 
 #### Alguns detalhes
+
 Foram utilizados React Hooks built-in e customizados e componentes para melhor aproveitamento de código.
 
 #### Sobre a API
+
 Foi utilizada a API do [Yelp](https://www.yelp.com/ "Yelp") (https://www.yelp.com/).
