@@ -10,7 +10,7 @@
 Esse app foi feito para praticar o uso de APIs em React Native.
 O app mostra uma lista de restaurantes do Rio de Janeiro baseado no termo especificado na pesquisa, agrupando em Mais Baratos, Custo Benefício e Mais Caros. Mostra o número de avaliações e de estrelas do restaurante.
 
-#### Frameworks utilizados
+#### Ferramentas utilizadas
 
 - Expo
 - Axios
